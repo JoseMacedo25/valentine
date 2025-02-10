@@ -62,7 +62,7 @@ const messages = [
     "Muy triste...",
     "MUY MUY MUY TRISTE...",
     "Esta bien, dejaré de preguntar...",
-    "Solo bromep, di que si por favor! ❤️"
+    "Solo bromeo, di que si por favor! ❤️"
 ];
 
 let messageIndex = 0;
